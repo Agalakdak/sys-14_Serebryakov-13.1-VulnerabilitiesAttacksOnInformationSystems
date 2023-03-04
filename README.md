@@ -23,7 +23,7 @@
 
 Судя по выводу команды nmap -A *ip* 
 Разрешены следующие службы 
-'''bash
+```bash
 21/tcp   open  ftp         vsftpd 2.3.4
 22/tcp   open  ssh         OpenSSH 4.7p1 Debian 8ubuntu1 (protocol 2.0)
 23/tcp   open  telnet      Linux telnetd
@@ -47,7 +47,7 @@
 6667/tcp open  irc         UnrealIRCd
 8009/tcp open  ajp13?
 8180/tcp open  http        Apache Tomcat/Coyote JSP engine 1.1
-'''
+```
 По уязвимостям - я так и не разобрался как вычленить уязвимости. Надеюсь на вашу обратную связь.
 
 ### Задание 2
